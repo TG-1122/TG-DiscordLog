@@ -22,7 +22,9 @@ And also have some command which can execute from discord to fivem server
 Guide
 
 - You Can easily create log system by using setup-log   command
+
+
 Installation settings
-install node.js
-open a terminal
-npm i 
+- install node.js
+- open a terminal
+- npm i 
